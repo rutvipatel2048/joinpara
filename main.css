@@ -1,0 +1,38 @@
+#para1_div{
+    width: 49%;
+    text-align: left;
+}
+
+input
+{
+    height: 30px;
+    width: 250px;
+}
+
+button
+{
+    font-size: 30px;
+    height: 50px;
+    width: 100px;
+}
+
+span
+{
+    font-size: 30px;
+}
+
+#show_para
+{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+div{
+    font-size: 30px;
+}
+
+#para2_div{
+    width: 49%;
+    text-align: right;
+    margin-top: -530px;
+}
